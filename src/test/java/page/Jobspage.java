@@ -28,6 +28,7 @@ public class Jobspage {
 		 driver.findElement(citiesbutton).click();
 		 driver.findElement(dubaiclick).click();
 		 System.out.println("Country search successfull");
+		//Username == abinandhini and password == Test@123
 		 
 	}
 	
